@@ -17,16 +17,16 @@ import { defineForumConfig } from './src/lib/config/schema';
  */
 export default defineForumConfig({
 	site: {
-		name: 'Git Forums',
+		name: 'HoardCTI Forums',
 		description: 'A community forum powered by GitHub Discussions',
 		// logo: '💬',                        // emoji shown instead of the default icon
-		footer: 'Powered by GitHub Discussions'
+		footer: 'Powered by git-forums'
 	},
 
 	repo: {
 		// Omit owner/name to auto-detect when building in GitHub Actions.
-		owner: 'NotReeceHarris',
-		name: 'git-forums',
+		owner: 'hoardcti',
+		name: 'community',
 		branch: 'main'
 	},
 

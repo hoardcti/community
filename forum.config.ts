@@ -39,8 +39,8 @@ export default defineForumConfig({
 		allowToken: true,
 		oauth: {
 			// Fill both to enable the "Continue with GitHub" button (see README):
-			clientId: 'Ov23li1QctsLGHqbcIwq',
-			proxyUrl: 'https://git-forums-oauth.reeceharris.workers.dev'
+			clientId: 'Ov23liyHZrYbwhmQc2do',
+			proxyUrl: 'https://git-forums-oauth.doodadlabs.workers.dev'
 		}
 	},
 
